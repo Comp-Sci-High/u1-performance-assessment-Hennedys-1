@@ -80,8 +80,10 @@ console.log(takeCareOfPet("hotdogs",12))
 // ----------------------------
 // 5th Floor
 
+function messageRecieve(message){
+return message = []
 
-
-
-
+}
+message = "open seasme","open seasme","open seasme","open seasme","open seasme"
+console.log(messageRecieve)
 // Commit and show us to unlock the next floor's instructions
