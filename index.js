@@ -9,6 +9,11 @@ let weworkItems = ["loaner laptop", "whiteboard", "conference room", "couch", "p
 let computerLabItems = ["desktop computers", "monitors", "broken laptop", "mice", "Wi-Fi router", "printer", "power strips", "headphones", "USB drives", "chairs", "desks"];
 let mprItems = ["mirrors", "speakers", "chairs", "portable stereo", "projector", "chairs", "posters"];
 
+let removeElement = weworkItems.shift()
+computerLabItems.push("grape juice")
+computerLabItems[3] = "fixed laptop"
+console.log(mprItems.length)
+let combinedArray = [weworkItems,computerLabItems,mprItems]
 
 // Commit and show us to unlock the next floor's instructions
 // ----------------------------
